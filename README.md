@@ -11,7 +11,7 @@ Move the Openssl file to :/labtainer/trunk/labs/
 
 Run : labtainer -r openssl
 
-Cd imodule --> Move jsonToCSV.py to labtainer_xfer/openssl
+Cd imodule1 --> Move jsonToCSV.py to labtainer_xfer/openssl
 
 Gradelab : cd labtainer/instructor/ --> gradelab openssl
 
