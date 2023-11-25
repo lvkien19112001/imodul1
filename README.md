@@ -5,7 +5,7 @@ Download from git : git clone https://github.com/lvkien19112001/imodule1
 
 Access the path : cd imodule1
 
-Unzip the file : tar -xzvf imodule.tar 
+Unzip the file : tar -xvf imodule.tar 
 
 Move the Openssl file to :/labtainer/trunk/labs/
 
