@@ -15,7 +15,7 @@ Cd imodule1 --> Move jsonToCSV.py to labtainer_xfer/openssl
 
 Gradelab : cd labtainer/instructor/ --> gradelab openssl
 
-Run : python jsonToCSV.py openssl
+Cd labtainer_xfer/openssl --> Run : python jsonToCSV.py openssl
 
 Read the file : openssl.grades.json.csv
 
