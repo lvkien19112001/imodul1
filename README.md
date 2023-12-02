@@ -9,9 +9,9 @@ Unzip the file : tar -xvf imodule.tar
 
 Move the Openssl file to :/labtainer/trunk/labs/
 
-Run : labtainer -r openssl
+Run : labtainer -r ptit-openssl
 
-Gradelab : cd labtainer/instructor/ --> gradelab openssl
+Gradelab : cd labtainer/instructor/ --> gradelab ptit-openssl
 
 
 
